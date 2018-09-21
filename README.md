@@ -2,6 +2,8 @@
 
 This is a demo to use Lottie Library by Airbnb in an Android Project. An animation JSON file can be played using `LottieAnimationView`.
 
+https://www.youtube.com/watch?v=wYG6DQXKBZ0
+
 ## How to use
 
 The code consists of a simple Loading Animation using LottieAnimationView. User can play or pause the animation using the Button.
