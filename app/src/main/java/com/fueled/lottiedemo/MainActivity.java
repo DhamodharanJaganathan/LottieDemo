@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
 		TextView textView;
 
+		textView=(TextView)findViewById(R.id.animation_view);
+
 		lottieAnimationView = (LottieAnimationView) findViewById(R.id.animation_view);
 		button = (Button) findViewById(R.id.button);
 		button.setText(getString(R.string.pause));
