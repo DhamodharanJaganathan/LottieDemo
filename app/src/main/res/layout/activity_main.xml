@@ -13,8 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         app:lottie_autoPlay="true"
-        app:lottie_colorFilter="@color/colorAccent"
-        app:lottie_fileName="loading.json"
+        app:lottie_fileName="splash_screen.json"
         app:lottie_loop="true"/>
 
     <Button
